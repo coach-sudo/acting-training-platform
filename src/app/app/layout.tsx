@@ -1,0 +1,1 @@
+import Link from"next/link";import{logout}from"../(auth)/actions";export default function Layout({children}:{children:React.ReactNode}){return <><header><nav className="shell"><Link href="/app"><strong>Acting Training</strong></Link><form action={logout}><button className="secondary">Log out</button></form></nav></header>{children}</>}
