@@ -1,2 +1,21 @@
 import Link from "next/link";
-export default function Home(){return <main className="shell hero"><p className="eyebrow">Training continuity for acting coaches</p><h1>Keep the thread of every actor&apos;s work.</h1><p className="lead">Remember what happened last time, what the actor is working toward, what you assigned, and what should happen next.</p><div className="actions"><Link className="button" href="/signup">Create your studio</Link><Link className="button secondary" href="/login">Log in</Link></div></main>}
+export default function Home() {
+  return (
+    <main className="shell hero">
+      <p className="eyebrow">Training continuity for acting coaches</p>
+      <h1>Keep the thread of every actor&apos;s work.</h1>
+      <p className="lead">
+        Remember what happened last time, what the actor is working toward, what
+        you assigned, and what should happen next.
+      </p>
+      <div className="actions">
+        <Link className="button" href="/signup">
+          Create your studio
+        </Link>
+        <Link className="button secondary" href="/login">
+          Log in
+        </Link>
+      </div>
+    </main>
+  );
+}

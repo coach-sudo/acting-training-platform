@@ -5,5 +5,6 @@
 - [x] Add Supabase clients and environment contract
 - [x] Add authentication, protected routes, onboarding, navigation
 - [x] Add foundational schema and RLS
-- [ ] Supply real Supabase credentials and apply migration
-- [ ] Run live authentication smoke test
+- [x] Supply real Supabase credentials and apply migration
+- [x] Run live authentication smoke test
+- [x] Complete confirmation and password-recovery callbacks
