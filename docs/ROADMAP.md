@@ -1,8 +1,8 @@
 # Roadmap
 
-1. Foundation and auth.
-2. Students, cohorts, focus areas, goals.
-3. Sessions, private notes, recaps, timeline.
+1. ✅ Foundation and auth.
+2. ✅ Students, cohorts, focus areas, goals.
+3. ✅ Sessions, private notes, recaps, timeline.
 4. Resources and lesson plans.
 5. Assignments, invitations, student portal.
 6. Optional AI drafting.
